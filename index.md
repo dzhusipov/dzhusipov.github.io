@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 ## Welcome to Daurkhan's profile
 
 My [Linkedin](https://www.linkedin.com/in/daurkhan-zhussipov/) profile.
